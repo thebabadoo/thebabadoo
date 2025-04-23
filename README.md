@@ -25,3 +25,14 @@ I am currently studying
 [![](https://visitcount.itsvg.in/api?id=thebabadoo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+## Watch Snake Eating My Github Contributions
+
+![snake gif](https://github.com/thebabadoo/thebabadoo/blob/output/github-contribution-grid-snake.svg)
+
